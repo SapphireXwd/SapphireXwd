@@ -1,4 +1,4 @@
-# <div align="center">🔐 **SapphireXwd** | Multi-Chain Security Architect</div>
+# <div align="center">🔐 **yoursbyte** | Multi-Chain Security Architect</div>
 
 <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Blockchain%20Security%20Expert&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
@@ -6,16 +6,16 @@
 
 <div align="center">
   
-  <!-- Animated Blockchain Symbols -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="60" height="60" alt="Ethereum"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="60" height="60" alt="Solana"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/sui-sui-logo.svg" width="60" height="60" alt="Sui"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg" width="60" height="60" alt="Cosmos"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/aptos-apt-logo.svg" width="60" height="60" alt="Aptos"/>
+  <!-- Blockchain Ecosystem Badges -->
+  <img src="https://img.shields.io/badge/⟠-Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/◆-Solana-9945FF?style=for-the-badge&logoColor=white" alt="Solana"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🌊-Sui-4DA8DA?style=for-the-badge&logoColor=white" alt="Sui"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/⚛-Cosmos-2E3148?style=for-the-badge&logoColor=white" alt="Cosmos"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🅰-Aptos-00D4AA?style=for-the-badge&logoColor=white" alt="Aptos"/>
   
   <br><br>
   
@@ -23,10 +23,10 @@
   
   <br>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-SapphireXwd.dev-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4)](https://SapphireXwd.dev)
-  [![Twitter](https://img.shields.io/badge/🐦_Twitter-@SapphireXwd-1DA1F2?style=for-the-badge&logoColor=white&labelColor=000)](https://twitter.com/SapphireXwd)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=000)](https://linkedin.com/in/SapphireXwd)
-  [![Email](https://img.shields.io/badge/📧_Email-Secure_Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=000)](mailto:security@SapphireXwd.dev)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yoursbyte.dev-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4)](https://yoursbyte.dev)
+  [![Twitter](https://img.shields.io/badge/🐦_Twitter-@yoursbyte-1DA1F2?style=for-the-badge&logoColor=white&labelColor=000)](https://twitter.com/yoursbyte)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white&labelColor=000)](https://linkedin.com/in/yoursbyte)
+  [![Email](https://img.shields.io/badge/📧_Email-Secure_Contact-EA4335?style=for-the-badge&logoColor=white&labelColor=000)](mailto:security@yoursbyte.dev)
   
 </div>
 
@@ -75,7 +75,7 @@ Protecting **$1B+ in TVL** across multiple blockchain ecosystems through compreh
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="80" height="80"/><br>
+<div style="font-size: 80px; line-height: 80px;">⟠</div><br>
 <img src="https://img.shields.io/badge/ETHEREUM-EXPERT-627EEA?style=for-the-badge&logo=ethereum&logoColor=white"/><br>
 <strong>🔹 Solidity Master</strong><br>
 <strong>🔹 EVM Deep Dive</strong><br>
@@ -84,7 +84,7 @@ Protecting **$1B+ in TVL** across multiple blockchain ecosystems through compreh
 <em>500+ Contracts Audited</em>
 </td>
 <td align="center" width="33%">
-<img src="https://cryptologos.cc/logos/solana-sol-logo.svg" width="80" height="80"/><br>
+<div style="font-size: 80px; line-height: 80px; color: #9945FF;">◆</div><br>
 <img src="https://img.shields.io/badge/SOLANA-SPECIALIST-9945FF?style=for-the-badge&logoColor=white"/><br>
 <strong>⚡ Rust Program Security</strong><br>
 <strong>⚡ SPL Token Analysis</strong><br>
@@ -93,7 +93,7 @@ Protecting **$1B+ in TVL** across multiple blockchain ecosystems through compreh
 <em>200+ Programs Secured</em>
 </td>
 <td align="center" width="33%">
-<img src="https://cryptologos.cc/logos/sui-sui-logo.svg" width="80" height="80"/><br>
+<div style="font-size: 80px; line-height: 80px; color: #4DA8DA;">🌊</div><br>
 <img src="https://img.shields.io/badge/SUI-PIONEER-4DA8DA?style=for-the-badge&logoColor=white"/><br>
 <strong>🌊 Move Language Expert</strong><br>
 <strong>🌊 Object-Centric Model</strong><br>
@@ -144,15 +144,15 @@ Protecting **$1B+ in TVL** across multiple blockchain ecosystems through compreh
 
 ### 📈 **Performance Metrics**
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=SapphireXwd&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D8FF&title_color=00D8FF&text_color=ffffff"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapphireXwd&layout=compact&langs_count=12&theme=react&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=yoursbyte&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&icon_color=00D8FF&title_color=00D8FF&text_color=ffffff"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursbyte&layout=compact&langs_count=12&theme=react&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=ffffff"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SapphireXwd&theme=react&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yoursbyte&theme=react&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B6B&currStreakLabel=00D8FF)](https://git.io/streak-stats)
 
 ### 🔥 **Contribution Heatmap**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SapphireXwd&custom_title=Security%20Research%20Activity&bg_color=0D1117&color=00D8FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoursbyte&custom_title=Security%20Research%20Activity&bg_color=0D1117&color=00D8FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -287,7 +287,7 @@ graph LR
 
 <div align="center">
 
-> *"SapphireXwd's audit saved our protocol from a potential $50M exploit. Their deep understanding of cross-chain security is unmatched."*  
+> *"yoursbyte's audit saved our protocol from a potential $50M exploit. Their deep understanding of cross-chain security is unmatched."*  
 > **— CTO, Major DeFi Protocol**
 
 > *"The most thorough security researcher I've worked with. Found vulnerabilities our internal team missed completely."*  
@@ -310,8 +310,8 @@ Whether you're building the next generation of DeFi, launching a revolutionary N
 
 **📅 Book a Security Consultation Today**
 
-<img src="https://img.shields.io/badge/📧_Email-security@SapphireXwd.dev-EA4335?style=for-the-badge&logoColor=white&labelColor=000"/>
-<img src="https://img.shields.io/badge/💬_Telegram-@SapphireXwd-0088CC?style=for-the-badge&logoColor=white&labelColor=000"/>
+<img src="https://img.shields.io/badge/📧_Email-security@yoursbyte.dev-EA4335?style=for-the-badge&logoColor=white&labelColor=000"/>
+<img src="https://img.shields.io/badge/💬_Telegram-@yoursbyte-0088CC?style=for-the-badge&logoColor=white&labelColor=000"/>
 <img src="https://img.shields.io/badge/🗓️_Calendar-Book_Meeting-4285F4?style=for-the-badge&logoColor=white&labelColor=000"/>
 
 ---
@@ -326,7 +326,7 @@ Whether you're building the next generation of DeFi, launching a revolutionary N
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SapphireXwd&color=00D8FF&style=for-the-badge&label=SECURITY+EXPERTS+VISITED"/>
+<img src="https://komarev.com/ghpvc/?username=yoursbyte&color=00D8FF&style=for-the-badge&label=SECURITY+EXPERTS+VISITED"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
 
@@ -338,6 +338,6 @@ Whether you're building the next generation of DeFi, launching a revolutionary N
 
 *⚡ "In blockchain, trust is not given—it's cryptographically proven. I make sure that proof is unbreakable." ⚡*
 
-**🔐 SapphireXwd - Securing Tomorrow's Decentralized World Today 🔐**
+**🔐 yoursbyte - Securing Tomorrow's Decentralized World Today 🔐**
 
 </div>
